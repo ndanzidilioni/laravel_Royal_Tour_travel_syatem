@@ -1,0 +1,16 @@
+payee tax -> sk n nimns
+salary slip ✓
+bonus n types ✓
+no pay ✓
+in advance
+traveling ✓
+leave allowances -> ✓
+epf -> im okay but check
+
+// Nimansa's part
+income - tours, ticketing, rental-customer
+expense - emp salary, advertisement, epf (company), income tax
+show difference
+ ** income - expense = profit
+ *** incomes - tour customer payments, air ticket
+
